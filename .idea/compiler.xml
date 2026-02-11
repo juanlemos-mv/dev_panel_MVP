@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="devpanel-backend" options="-parameters" />
+      <module name="devpanel-backend" options="" />
     </option>
   </component>
 </project>

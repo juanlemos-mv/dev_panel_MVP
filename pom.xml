@@ -12,7 +12,7 @@
 
   <modules>
     <module>backend</module>
-    <!-- libs e frontend entram depois -->
+    <module>libs</module>
   </modules>
 
 </project>

@@ -1,0 +1,54 @@
+# =========================
+# IDEs / workspace
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ project files that sometimes sneak in
+.idea/**/compiler.xml
+.idea/**/modules.xml
+.idea/**/workspace.xml
+.idea/**/jarRepositories.xml
+
+# VS Code
+.vscode/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# =========================
+# OS / misc
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Java / Maven
+# =========================
+target/
+**/target/
+*.log
+
+# Maven wrapper / local configs (opcional)
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# Node / frontend
+# =========================
+node_modules/
+dist/
+build/
+coverage/
+
+# =========================
+# Env / secrets (não versionar)
+# =========================
+.env
+.env.*
+*.local
+application-local.yml
+application-local.properties
